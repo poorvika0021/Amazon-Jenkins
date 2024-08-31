@@ -1,5 +1,1 @@
-#!/bin/bash
-
-echo "Adding a file"
-echo "Add"
-echo "Hello"
+echo "testing webhook freestyle project"
